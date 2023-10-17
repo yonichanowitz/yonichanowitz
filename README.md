@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yonichanowitz
 - 👀 I’m interested in Sculpting, Hacking, Hoby Electronics (arduino), and gaming
-- 🌱 I’m currently learning Data Science (python)
+- 🔢 Learned Data Science in FlatIron school
+- 👑 Working at Merkos 302
 - 💞️ I’m looking to collaborate on almost anything! (i know JavaScript, Python, some PHP. i'm not the best technically, but i communicate well)
 - 📫 How to reach me twitter @yonichanowitz, or text me 347-899-0424
 
