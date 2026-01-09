@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @yonichanowitz
 - 👀 I’m interested in Sculpting, Hacking, Hoby Electronics (arduino), and gaming
 - 🔢 Learned Data Science in FlatIron school
-- 👑 Working at Merkos 302
+- 👑 Running a Print Farm
 - 💞️ I’m looking to collaborate on almost anything! (i know JavaScript, Python, some PHP. i'm not the best technically, but i communicate well)
-- 📫 How to reach me twitter @yonichanowitz, or text me 347-899-0424
+- 📫 How to reach me: X @yonichanowitz, or text me 347-899-0424
+- www.j3ddesign.com
 
 
 🏴‍☠️ hack stuff
